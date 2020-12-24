@@ -1,5 +1,6 @@
 EESchema Schematic File Version 4
-EELAYER 30 0
+LIBS:4key-pcb-cache
+EELAYER 26 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -14,7 +15,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L 4key-pcb-rescue:ATmega32U4-AU-MCU_Microchip_ATmega MCU1
+L MCU_Microchip_ATmega:ATmega32U4-AU MCU1
 U 1 1 5FDA3C0B
 P 8700 3250
 F 0 "MCU1" H 8700 1364 50  0000 C CNN
@@ -235,7 +236,7 @@ F 3 "" H 7400 2450 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L 4key-pcb-rescue:Crystal_GND24_Small-Device Crytl1
+L Device:Crystal_GND24_Small Crytl1
 U 1 1 5FDA9AC8
 P 7050 2050
 F 0 "Crytl1" V 7004 2216 50  0000 L CNN
