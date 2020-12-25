@@ -587,11 +587,11 @@ Text GLabel 1775 1575 1    50   Input ~ 0
 COL0
 Text GLabel 2225 1575 1    50   Input ~ 0
 COL1
-Text GLabel 9300 3650 2    50   Input ~ 0
+Text GLabel 9300 2250 2    50   Input ~ 0
 COL0
 Text GLabel 9300 2150 2    50   Input ~ 0
 COL1
-Text GLabel 9300 2250 2    50   Input ~ 0
+Text GLabel 9300 3650 2    50   Input ~ 0
 ROW0
 Text GLabel 9300 2350 2    50   Input ~ 0
 ROW1
